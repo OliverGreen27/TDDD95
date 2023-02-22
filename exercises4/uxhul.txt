@@ -1,0 +1,7 @@
+notes:
+
+also dynamic programming
+
+Work backwards in the table so that we get what the last priest want to vote first
+
+If priest m-1 voted YNN or whatever, what would the last priest vote. And working backwards
